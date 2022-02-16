@@ -1,8 +1,8 @@
 # Table of contents
 
 * [바닐라코딩 Starter Kit](README.md)
+* [시작하기에 앞서](before-you-start.md)
 * [코드 에디터](editor.md)
-* [시작하기에 앞서..](untitled.md)
 
 ## Step 1
 
