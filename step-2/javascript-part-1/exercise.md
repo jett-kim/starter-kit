@@ -1,4 +1,4 @@
-# Exercise
+# 🖋  Exercise
 
 ### FizzBuzz
 

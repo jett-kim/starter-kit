@@ -1,4 +1,4 @@
-# What is programming?
+# 📗  What is programming?
 
 ![Programming](https://s3.ap-northeast-2.amazonaws.com/bootcamp-prep-assets/images/programming.jpeg)
 

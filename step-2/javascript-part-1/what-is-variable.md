@@ -1,4 +1,4 @@
-# What is variable?
+# 📗  What is variable?
 
 ### 변수(Variable)란?
 

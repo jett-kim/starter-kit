@@ -1,4 +1,4 @@
-# null & undefined
+# 📗  null & undefined
 
 자바스크립트에는 `null`과 `undefined`라는 값이 존재합니다.
 

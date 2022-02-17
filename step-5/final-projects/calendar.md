@@ -2,7 +2,7 @@
 description: '기간: 최대 5일'
 ---
 
-# Calendar
+# 🖋  Calendar
 
 {% hint style="danger" %}
 인터넷에 올라와 있는 다른 사람의 작업물을 참고하여 작업하는 것은 여러분의 실력향상에 전혀 도움이 되지 않는 방법입니다.
@@ -28,7 +28,7 @@ description: '기간: 최대 5일'
 
 ### Code Boilerplate
 
-{% file src="../.gitbook/assets/Calendar_Boilerplate (1).zip" %}
+{% file src="../../.gitbook/assets/Calendar_Boilerplate (1).zip" %}
 
 ###
 

@@ -1,4 +1,4 @@
-# Types Practice
+# 🖋  Types Practice
 
 ### Quiz #1
 

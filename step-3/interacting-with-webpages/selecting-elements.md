@@ -1,4 +1,4 @@
-# Selecting Elements
+# 📗  Selecting Elements
 
 {% embed url="https://vimeo.com/352474390" %}
 CSS 선택자

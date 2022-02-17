@@ -2,7 +2,7 @@
 description: '기간: 최대 3일'
 ---
 
-# Carousel
+# 🖋  Carousel
 
 ### Quiz #1
 

@@ -1,4 +1,4 @@
-# Variables Practice
+# 🖋  Variables Practice
 
 ### Quiz #1
 

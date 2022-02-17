@@ -1,4 +1,4 @@
-# How to Solve Problem
+# 📗  How to Solve Problem
 
 이번 장에서는 [Codepen에서 직접 해보기](https://codepen.io/vanillacoding/pen/ZEXNMZK) 라는 링크에 들어가 \
 말풍선 (💬) 을 지우고 주어진 조건을 충족하는 함수를 작성하여 \

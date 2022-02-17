@@ -2,7 +2,7 @@
 description: '기간: 최대 3일'
 ---
 
-# JavaScript Koans
+# 🖋  JavaScript Koans
 
 {% embed url="https://github.com/mrdavidlaing/javascript-koans" %}
 

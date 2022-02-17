@@ -1,4 +1,4 @@
-# Function Practice
+# 🖋  Function Practice
 
 ### Quiz #1
 

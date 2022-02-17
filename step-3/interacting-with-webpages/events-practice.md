@@ -1,4 +1,4 @@
-# Events Practice
+# 🖋  Events Practice
 
 ### Quiz #1
 

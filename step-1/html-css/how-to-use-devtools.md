@@ -1,4 +1,4 @@
-# 개발자 도구 사용법
+# 📗  개발자 도구 사용법
 
 {% embed url="https://www.youtube.com/watch?v=s0RI4IXKE_o" %}
 How to use Chrome DevTools to debug HTML, CSS

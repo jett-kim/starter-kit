@@ -1,4 +1,4 @@
-# How to Solve Practice
+# 🖋  How to Solve Practice
 
 사전학습가이드에는 각 주제 별 Practice가 준비되어있습니다. \
 모든 Quiz는 온라인 에디터인 Codepen을 통해 직접 풀어볼 수 있는데요. \

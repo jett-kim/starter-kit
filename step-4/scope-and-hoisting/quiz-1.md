@@ -1,4 +1,4 @@
-# Primitive and Reference Quiz
+# 🖋  Primitive and Reference Quiz
 
 {% tabs %}
 {% tab title="JavaScript" %}

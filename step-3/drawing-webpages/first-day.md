@@ -1,4 +1,4 @@
-# First Day
+# 🖋  First Day
 
 ### Quiz #1
 

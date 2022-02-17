@@ -1,4 +1,4 @@
-# Scope Chain Practice
+# 🖋  Scope Chain Practice
 
 ### Quiz #1
 

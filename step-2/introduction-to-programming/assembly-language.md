@@ -1,4 +1,4 @@
-# Assembly Language
+# 📗  Assembly Language
 
 Assembly Language란 컴퓨터 프로세서를 다루기 위한 가장 기본적인 언어입니다. 소프트웨어 개발자는 Assembly Language를 이용하여 오로지 CPU가 수행해야 할 직접적인 작업에 관한 내용만을 명령내릴 수 있습니다.
 

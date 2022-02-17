@@ -1,4 +1,4 @@
-# Scope Introduction
+# 📗  Scope Introduction
 
 {% hint style="danger" %}
 Scope 관련 예제에서는 개념 설명을 위해 `var` 변수 선언 만을 이용하고 있습니다. `let`과 `const` 또한 기본적으로 유사하게 동작합니다만, 우선은 `var`를 기준으로 먼저 설명하고 추후 `let`과 `const`에 대해 설명하도록 하겠습니다.

@@ -1,4 +1,4 @@
-# Array Practice
+# 🖋  Array Practice
 
 ### Quiz #1
 

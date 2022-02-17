@@ -38,11 +38,11 @@
 
 앞으로 개발을 하면서 가장 많이 보게 될 문서인 MDN. MDN에서는 자바스크립트와 관련된 여러 함수들의 정의와 사용법을 확인할 수 있는데요. 너무 어렵게 생각하지 말고 차근차근 읽어볼까요?
 
-![출처: MDN](<../.gitbook/assets/MDN-1 (1).png>)
+![출처: MDN](<../../.gitbook/assets/MDN-1 (1).png>)
 
-![출처: MDN](../.gitbook/assets/MDN-2.png)
+![출처: MDN](../../.gitbook/assets/MDN-2.png)
 
-![출처: MDN](../.gitbook/assets/MDN-3.png)
+![출처: MDN](../../.gitbook/assets/MDN-3.png)
 
 먼저, 찾고 있는 함수이름의 바로 아래에 나오는 설명은 아주 꼼꼼히 읽는 것을 권장합니다. 바로 이 부분에 이 함수가 무엇인지 정확히 설명해주기 때문입니다.&#x20;
 

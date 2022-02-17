@@ -1,4 +1,4 @@
-# Boolean Practice
+# 🖋  Boolean Practice
 
 ### Quiz #1
 

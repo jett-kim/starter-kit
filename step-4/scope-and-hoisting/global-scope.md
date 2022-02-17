@@ -1,4 +1,4 @@
-# Global Scope
+# 📗  Global Scope
 
 앞서 소개해드렸던 Global Scope는 일반적으로 신중하여 생각해보고 사용해야 합니다. 아래의 예제 코드를 한번 실행해보세요.
 

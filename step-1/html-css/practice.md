@@ -2,7 +2,7 @@
 description: '학습 시간: 최대 15시간'
 ---
 
-# Google Clone
+# 🖋  Google Clone
 
 ### 구글 홈페이지 만들기
 

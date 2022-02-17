@@ -1,4 +1,4 @@
-# Hoisting
+# 📗  Hoisting
 
 Hoist라는 영어 단어의 의미부터 알아볼까요?
 

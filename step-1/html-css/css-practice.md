@@ -1,4 +1,4 @@
-# CSS 선택자 Practice
+# 🖋  CSS 선택자 Practice
 
 ### Selector (1)
 

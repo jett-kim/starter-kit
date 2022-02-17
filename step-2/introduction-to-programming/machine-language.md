@@ -1,4 +1,4 @@
-# Machine Language
+# 📗  Machine Language
 
 ![Binary](https://s3.ap-northeast-2.amazonaws.com/bootcamp-prep-assets/images/languages.png)
 

@@ -1,4 +1,4 @@
-# Selecting Elements Practice
+# 🖋  Selecting Elements Practice
 
 ### Quiz #1
 

@@ -1,4 +1,4 @@
-# Object
+# 📗  Object
 
 객체라고 하는 것은 key/value pair를 저장할 수 있는 구조입니다.
 

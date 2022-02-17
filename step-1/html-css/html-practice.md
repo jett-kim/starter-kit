@@ -1,4 +1,4 @@
-# HTML의 기초 Practice
+# 🖋  HTML의 기초 Practice
 
 짜잔! 반갑습니다. 이곳은 Practice 입니다.
 
@@ -48,7 +48,7 @@ HTML에서 작성된 텍스트를 줄바꿈 하더라도, 문서에는 줄바꿈
 HTML에서 작성된 문서에 줄바꿈을 추가하려면 line break를 사용해야 합니다!
 
 ```html
-<br />
+<br>
 ```
 
 [Codepen에서 직접 해보기](https://codepen.io/vanillacoding/pen/yLPYgXy?editors=1000)

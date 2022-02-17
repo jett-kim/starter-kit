@@ -1,4 +1,4 @@
-# Compiled Language & Interpreted Language
+# 📗  Compiled Language & Interpreted Language
 
 ![Translation](https://s3.ap-northeast-2.amazonaws.com/bootcamp-prep-assets/images/translation.jpeg)
 

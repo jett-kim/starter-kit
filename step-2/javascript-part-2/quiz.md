@@ -1,4 +1,4 @@
-# Quiz
+# 🖋  Quiz
 
 {% tabs %}
 {% tab title="JavaScript" %}

@@ -1,4 +1,4 @@
-# Logical Operators
+# 📗  Logical Operators
 
 ### Logical NOT Operator
 

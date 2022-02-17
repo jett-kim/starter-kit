@@ -1,4 +1,4 @@
-# Loops Practice
+# 🖋  Loops Practice
 
 ### Quiz #1
 

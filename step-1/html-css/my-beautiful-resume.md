@@ -1,4 +1,4 @@
-# My Beautiful Resume
+# 🖋  My Beautiful Resume
 
 ### Step 1
 

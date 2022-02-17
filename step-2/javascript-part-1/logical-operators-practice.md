@@ -1,4 +1,4 @@
-# Logical Operators Practice
+# 🖋  Logical Operators Practice
 
 ### Quiz #1
 
