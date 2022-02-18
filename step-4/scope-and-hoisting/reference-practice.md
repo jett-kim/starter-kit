@@ -116,8 +116,8 @@ function copyMachine2(obj2) {
   return newID2;
 }
 
-const copyID1 = copyMachine(ID);
-const copyID2 = copyMachine(ID);
+const copyID1 = copyMachine1(ID);
+const copyID2 = copyMachine2(ID);
 
 ID.name = "Ken";
 
