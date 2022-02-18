@@ -1,8 +1,6 @@
 # Table of contents
 
 * [바닐라코딩 Starter Kit](README.md)
-* [시작하기에 앞서](before-you-start.md)
-* [코드 에디터](editor.md)
 
 ## Step 1
 
@@ -117,6 +115,7 @@
 
 * [Final Projects](step-5/final-projects/README.md)
   * [⚠️ How to tackle problems](step-5/final-projects/how-to-tackle-problems.md)
+  * [📗  Editor](step-5/final-projects/editor.md)
   * [🖋  Number Baseball](step-5/final-projects/baseball.md)
   * [🖋  Calendar](step-5/final-projects/calendar.md)
 
