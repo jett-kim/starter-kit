@@ -27,24 +27,15 @@ const button1Element = document.querySelector(".button1");
 ```javascript
 /*
 
-  < Function basic 2 >
+  버튼을 눌렀을 때 p태그의 폰트를 본인이 원하는 색상이 되도록
+  
+  이벤트를 등록시켜 주세요!
 
-  💬 를 적절한 값으로 고쳐주세요!
+  🚨 HTML, CSS는 수정하지 않고 JS만 수정해주세요.
 
 */
 
-function greetingMaker(greet, name) {
-  return `💬`;
-}
-
-const hello = greetingMaker("Hello", "Jett");
-const goodBye = greetingMaker("Goodbye", "Justin");
-
-const result = (hello === "Hello, Jett") && (goodBye === "Goodbye, Justin");
-
-if (result) {
-  alert("🎉");
-}
+const buttonElement = document.querySelector("button");
 ```
 
 [Codepen에서 직접 해보기](https://codepen.io/vanillacoding/pen/JjOPREY?editors=1010)
