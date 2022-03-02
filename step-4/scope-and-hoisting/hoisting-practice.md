@@ -37,7 +37,7 @@ foo();
 
 */
 
-let aomething = "Something";
+let something = "Something";
 let result = null;
 
 function foo () {
