@@ -136,4 +136,4 @@ AND 연산자의 우선순위가 OR 연산자의 우선순위보다 높습니다
 ### 추가 학습 자료
 
 * [Logical Operators - Javascript Info](https://javascript.info/logical-operators)
-* \[논리 연산자 - MDN]\([https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/%EB%85%BC%EB%A6%AC\_%EC%97%B0%EC%82%B0%EC%9E%90(Logical\_Operators](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/%EB%85%BC%EB%A6%AC\_%EC%97%B0%EC%82%B0%EC%9E%90\(Logical\_Operators)))
+* [논리 연산자 - MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators)
