@@ -2,11 +2,11 @@
 
 
 
-{% embed url="https://vimeo.com/352619002" %}
+{% embed url="https://vimeo.com/787837203/dedba59384" %}
 
-{% embed url="https://vimeo.com/352620443" %}
+{% embed url="https://vimeo.com/787837306/6fc14bd6e5" %}
 
-{% embed url="https://vimeo.com/352625503" %}
+{% embed url="https://vimeo.com/787837149/a9da260fd4" %}
 
 "이벤트"란, 웹 상에서 발생하는 사건들을 통칭하는 단어입니다. 예를 들면, 사용자가 화면의 일부를 "클릭"하거나 마우스를 이용해 드래그하거나 윈도우의 사이즈를 줄이거나 하는 행위 등 입니다. 이벤트의 종류는 굉장히 많습니다. 여러분이 상상할 수 있는 대부분의 브라우저 관련 "이벤트"들은 우리가 자바스크립트로 감지할 수 있습니다.
 
