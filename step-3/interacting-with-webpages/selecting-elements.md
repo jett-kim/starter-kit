@@ -1,14 +1,14 @@
 # 📗  Selecting Elements
 
-{% embed url="https://vimeo.com/352474390" %}
+{% embed url="https://vimeo.com/787837258/7feb4ba87e" %}
 CSS 선택자
 {% endembed %}
 
-{% embed url="https://vimeo.com/352477326" %}
+{% embed url="https://vimeo.com/787837276/9e9a0bc61e" %}
 getElementby\~\~
 {% endembed %}
 
-{% embed url="https://vimeo.com/352496353" %}
+{% embed url="https://vimeo.com/787837291/a872fa7635" %}
 부모, 자식 요소 선택하기
 {% endembed %}
 
