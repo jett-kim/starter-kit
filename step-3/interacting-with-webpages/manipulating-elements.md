@@ -1,6 +1,6 @@
 # 📗  Manipulating Elements
 
-{% embed url="https://vimeo.com/352501832" %}
+{% embed url="https://vimeo.com/787837225/f36d19e29a" %}
 
 DOM을 이용하여 선택한 요소들을 필요에 따라 수정하거나 삭제할 수도 있습니다.
 
