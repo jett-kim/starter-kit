@@ -1,6 +1,6 @@
 # 📗  Reference
 
-{% embed url="https://vimeo.com/352662744" %}
+{% embed url="https://vimeo.com/787843565/f00b9fc3a7" %}
 
 Reference(참조) 방식으로 작동하는 자료형은 단 하나 뿐입니다.
 
